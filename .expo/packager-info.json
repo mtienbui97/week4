@@ -1,0 +1,10 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 14312,
+  "expoServerNgrokUrl": "https://x8-bxa.mtienbui.week4.exp.direct",
+  "packagerNgrokUrl": "https://packager.x8-bxa.mtienbui.week4.exp.direct",
+  "ngrokPid": 4512,
+  "webpackServerPort": null,
+  "devToolsPort": 19002
+}
